@@ -1,3 +1,5 @@
+/*eslint-env node */
+
 var samiURL = "https://api.samsungsami.io/v1.1/messages";
 var bearer = "Bearer INSERT_YOUR_DEVICE_TOKEN_HERE";
 var device_id = "INSERT_YOUR_DEVICE_ID_HERE";
